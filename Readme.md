@@ -13,6 +13,11 @@
 8. [Stack](#stack)
 
 ## To be updated
+9. [Tries]
+10. [Graphs]
+11. [Undirected Graphs]
+12. [Sorting Algorithms]
+13. [Searching Algorithms]
+14. [String Manipulating Algorithms]
 
-### Remaining contents will be updated soon. This programs are coded by me during the course of [The Ultimate Data Structures & Algorithms Course](https://codewithmosh.com/p/data-structures-algorithms) 
-by Mosh
+#### Remaining contents will be updated soon. This programs are coded by me during the course of [The Ultimate Data Structures & Algorithms Course](https://codewithmosh.com/p/data-structures-algorithms) by Mosh
