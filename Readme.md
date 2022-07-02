@@ -3,14 +3,14 @@
 ## Data structures code using Java 
 
 ## Table of Contents
-1. [Array](#array)
-2. [AVL Tree](#avl-tree)
-3. [Binary Tree](#binary-tree)
-4. [Hashmap](#hashmap)
-5. [Heap](#heap)
-6. [Linked List](#linked-list)
-7. [Queue](#queue)
-8. [Stack](#stack)
+1. [Array](https://github.com/Praveen007-K/Data-Structures/tree/main/array)
+2. [AVL Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/avl-tree)
+3. [Binary Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/binary-tree)
+4. [Hashmap](https://github.com/Praveen007-K/Data-Structures/tree/main/hashmap)
+5. [Heap](https://github.com/Praveen007-K/Data-Structures/tree/main/heap)
+6. [Linked List](https://github.com/Praveen007-K/Data-Structures/tree/main/linked-list)
+7. [Queue](https://github.com/Praveen007-K/Data-Structures/tree/main/queue)
+8. [Stack](https://github.com/Praveen007-K/Data-Structures/tree/main/stack)
 
 ## To be updated
 9. Tries
