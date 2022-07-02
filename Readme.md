@@ -4,11 +4,11 @@
 
 ## Table of Contents
 1. [Array](https://github.com/Praveen007-K/Data-Structures/tree/main/array)
-2. [AVL Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/avl-tree)
-3. [Binary Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/binary-tree)
+2. [AVL Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/avltree)
+3. [Binary Tree](https://github.com/Praveen007-K/Data-Structures/tree/main/binary_tree)
 4. [Hashmap](https://github.com/Praveen007-K/Data-Structures/tree/main/hashmap)
 5. [Heap](https://github.com/Praveen007-K/Data-Structures/tree/main/heap)
-6. [Linked List](https://github.com/Praveen007-K/Data-Structures/tree/main/linked-list)
+6. [Linked List](https://github.com/Praveen007-K/Data-Structures/tree/main/linkedlist)
 7. [Queue](https://github.com/Praveen007-K/Data-Structures/tree/main/queue)
 8. [Stack](https://github.com/Praveen007-K/Data-Structures/tree/main/stack)
 
